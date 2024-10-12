@@ -34,7 +34,7 @@
 
 1. استنساخ المستودع من GitHub:
    ```sh
-   git clone https://github.com/username/server-check.git
+   git clone https://github.com/RAKAN-ALYAMI/server-check.git
    ```
 2. قم بنقل الملفات إلى مجلد خادم الويب الخاص بك.
 3. افتح `server_check.php` في المتصفح.
